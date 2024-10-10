@@ -2,7 +2,7 @@
 
 # Informativo Mundial das Missões
 
-
+![AppIcon](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/imgs/AppIcon.png)
 
 ## Descrição
 - Esse aplicativo é um atalho para baixar o vídeo do informativo de forma rápida e eficaz.
@@ -13,16 +13,16 @@
 ## Interface do aplicativo
 - Página Inicial (parte 1)
 
-![Image1](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/imgs/Screenshot_20241003-014226.png)
+![Image1](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/imgs/Screenshot_20241003-014226.png)
 - Página Inicial (parte 2)
 
-![Image2](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/imgs/Screenshot_20241003-014312.png)
+![Image2](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/imgs/Screenshot_20241003-014312.png)
 - Configuração 
 
-![Image3](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/imgs/Screenshot_20241003-014334.png)
+![Image3](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/imgs/Screenshot_20241003-014334.png)
 - Visualizar vídeo
 
-![Image4](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/imgs/Screenshot_20241003-014356.png)
+![Image4](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/imgs/Screenshot_20241003-014356.png)
 
 
 ## Funcionalidades
@@ -38,11 +38,11 @@
 
 ## Instalação
 
-- Android Cross-ABI [Download](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/install/com.MauryDev.informativodownload.apk?ref_type=heads&inline=false)
-- Android arm64-v8a [Download](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/install/com.MauryDev.informativodownload-arm64-v8a.apk?ref_type=heads&inline=false)
-- Android armeabi-v7a [Download](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/install/com.MauryDev.informativodownload-armeabi-v7a.apk?ref_type=heads&inline=false)
-- Android x86 [Download](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/install/com.MauryDev.informativodownload-x86.apk?ref_type=heads&inline=false)
-- Android x86_64 [Download](https://gitlab.com/maurygta2/informativo-mundial-das-missoes/-/raw/main/install/com.MauryDev.informativodownload-x86_64.apk?ref_type=heads&inline=false)
+- Android Cross-ABI [Download](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/install/com.MauryDev.informativodownload.apk)
+- Android arm64-v8a [Download](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/install/com.MauryDev.informativodownload-arm64-v8a.apk)
+- Android armeabi-v7a [Download](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/install/com.MauryDev.informativodownload-armeabi-v7a.apk)
+- Android x86 [Download](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/install/com.MauryDev.informativodownload-x86.apk)
+- Android x86_64 [Download](https://github.com/MauryDev/Informativo-Mundial-App/raw/refs/heads/main/install/com.MauryDev.informativodownload-x86_64.apk)
 
 - Esse aplicativo não tem play store, para permitir a instalação entre no link abaixo:
 	- https://tecnoblog.net/responde/como-permitir-a-instalacao-de-apps-de-fontes-desconhecidas-no-android/
